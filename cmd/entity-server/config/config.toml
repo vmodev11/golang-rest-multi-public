@@ -1,0 +1,4 @@
+[local]
+environment_prefix = "local"
+db_connection = "storage/api-golang-staging.db"
+allow_origins = ["http://localhost:3000"]

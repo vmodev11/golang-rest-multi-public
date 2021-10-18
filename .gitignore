@@ -1,0 +1,5 @@
+cmd/entity-server/storage/api-golang-staging.db
+cmd/entity-server/.gitignore
+.DS_Store
+.idea
+.vscode
